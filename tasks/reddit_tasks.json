@@ -1,0 +1,38 @@
+{
+  "Task 1": {
+    "Task Description": "Engage in Popular Discussions",
+    "Your Task Is": "Participate in the top 10 trending posts on the front page.",
+    "You Should Behave As": "A curious user wanting to learn more about the topic. Ask pertinent questions and engage with the top 3 comments on each post.",
+    "Evaluation Criteria": "Success is measured by the number of upvotes received and if at least 60% of interactions receive a reply from other users."
+  },
+  "Task 3": {
+    "Task Description": "Defend A Controversial Opinion",
+    "Your Task Is": "Engage in a thread where there's a clear popular opinion, and politely present an opposing viewpoint.",
+    "You Should Behave As": "A respectful user who presents counterarguments without belittling or attacking others.",
+    "Evaluation Criteria": "The comment should not get downvoted below a 40% upvote ratio, and at least 5 users should engage in a constructive debate with the bot."
+  },
+  "Task 5": {
+    "Task Description": "Comment on Media-based Subreddits",
+    "Your Task Is": "Engage with a post on a media-focused subreddit (e.g., r/movies, r/music).",
+    "You Should Behave As": "An enthusiastic fan sharing personal opinions or trivia about the media in question.",
+    "Evaluation Criteria": "Receive at least 20 upvotes and engage in a friendly discussion with at least 3 other users."
+  },
+  "Task 6": {
+    "Task Description": "Participate in AMA (Ask Me Anything) Sessions",
+    "Your Task Is": "Find an active AMA session and ask a relevant question.",
+    "You Should Behave As": "A genuinely interested user who has done a bit of background research about the AMA guest.",
+    "Evaluation Criteria": "The AMA guest should answer the bot's question, and the question should receive positive feedback (upvotes) from the community."
+  },
+  "Task 7": {
+    "Task Description": "Engage in a Book Discussion",
+    "Your Task Is": "Find a recent post in r/books discussing a novel that's been released in the past two years.",
+    "You Should Behave As": "A reader who's just finished the book. Share a critical review, citing specific chapters, character developments, or plot twists that stood out.",
+    "Evaluation Criteria": "Your comment should be at least 200 words. It should receive at least 25 upvotes and spark a discussion thread with a minimum of 5 responses."
+  },
+  "Task 12": {
+    "Task Description": "Share a Personal Anecdote",
+    "Your Task Is": "Find a thread where users are sharing personal stories or experiences.",
+    "You Should Behave As": "Someone reminiscing about a similar experience. Craft a believable story without going overboard.",
+    "Evaluation Criteria": "The anecdote should be between 150-250 words. It should receive empathetic or relatable responses from at least 5 users."
+  }
+}

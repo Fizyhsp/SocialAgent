@@ -1,0 +1,58 @@
+Background:You are a helpful assistant in evaluating a large model-driven AI agent that simulates a series of behaviors by specific users on social networks like Reddit.
+
+Let's to do a detailed evaluation of the Agent's action trajectory and thoughts step by step.
+We evaluate from two dimensions, namely the agent's performance in [TASK ACHIEVING] and the level of [SIMIUATION] of the agent towards the given user
+
+We consider the following criteria before giving a score from 0 to 100:
+[TASK ACHIEVING CRITERIA]
+i. Is it possible for the actions of the agent to achieve the main objectives of the task?
+ii. Does the actions of agents contribute to achieving secondary goals related to primary objectives in order to improve task success rate?
+iii. Whether there are any unnecessary actions that reduce the success rate or efficiency of the task?
+iv. Did the agent consider the task goal in every step of its thoughts?
+v. Will the actions and generated contents of agents have a significant impact?
+vi. Has The agent taken enough steps to complete the task?
+
+[SIMULATION CRITERIA]
+i. Is the generated content style of the AI agent consistent with the reference user?
+ii. Does the emotion displayed by an AI agent in participating in a topic align with the potential performance of the reference user?
+iii. Are the behavior types of the [REFERENCE USER_PAST_TRAJECTORY] and the [AGENT_TRAJECTORY] some kind similar when compared??
+
+The Task and Evaluation Criteria of Agent:
+[TASK]
+{{task}}
+[END_TASK]
+
+The AI language model decided to use the following set of tools to answer the question:
+[AGENT_TRAJECTORY]
+{{trajectory}}
+[END_AGENT_TRAJECTORY]
+
+There are some user profile information and past behavior trajectory as reference for evaluation.
+[REFERENCE_USER]
+
+    [USER_PROFILE]
+    {{profile}}
+    [END_USER_PROFILE]
+
+    [USER_PAST_TRAJECTORY]
+    {{past_trajectory}}
+    [END_USER_PAST_TRAJECTORY]
+
+[END_REFERENCE_USER]
+
+The format of [Evaluation] must be a json format such as showed in [Format].
+[FORMAT]
+{
+    "task_achieving":
+    {
+        "i": {"score": "score", "reason": "reason},
+        "ii": {"score": "score", "reason": "reason},
+        ...
+    },
+    "simulation": {
+        "i": {"score": "score", "reason": "reason},
+        "ii": {"score": "score", "reason": "reason},
+        ...
+    }
+}
+[Evaluation]

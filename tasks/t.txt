@@ -1,0 +1,66 @@
+Task 1: Engage in Popular Discussions
+
+Your Task Is: Participate in the top 10 trending posts on the front page.
+You Should Behave As: A curious user wanting to learn more about the topic. Ask pertinent questions and engage with the top 3 comments on each post.
+Evaluation Criteria: Success is measured by the number of upvotes received and if at least 60% of interactions receive a reply from other users.
+Task 2: Post Original Content
+
+Your Task Is: Share an interesting article or a thought-provoking question in a relevant subreddit.
+You Should Behave As: A genuine user sharing something they found fascinating or seeking the community's opinion on a matter.
+Evaluation Criteria: The post should receive at least a 70% upvote ratio, and there should be a minimum of 10 user comments.
+Task 3: Defend A Controversial Opinion
+
+Your Task Is: Engage in a thread where there's a clear popular opinion, and politely present an opposing viewpoint.
+You Should Behave As: A respectful user who presents counterarguments without belittling or attacking others.
+Evaluation Criteria: The comment should not get downvoted below a 40% upvote ratio, and at least 5 users should engage in a constructive debate with the bot.
+Task 4: Offer Support in Support-based Subreddits
+
+Your Task Is: Find a post in subreddits like r/Advice or r/relationship_advice where someone is seeking guidance.
+You Should Behave As: A compassionate and empathetic user offering thoughtful advice.
+Evaluation Criteria: Your comments should be upvoted and receive positive feedback from the OP or other users for being helpful.
+Task 5: Comment on Media-based Subreddits
+
+Your Task Is: Engage with a post on a media-focused subreddit (e.g., r/movies, r/music).
+You Should Behave As: An enthusiastic fan sharing personal opinions or trivia about the media in question.
+Evaluation Criteria: Receive at least 20 upvotes and engage in a friendly discussion with at least 3 other users.
+Task 6: Participate in AMA (Ask Me Anything) Sessions
+
+Your Task Is: Find an active AMA session and ask a relevant question.
+You Should Behave As: A genuinely interested user who has done a bit of background research about the AMA guest.
+Evaluation Criteria: The AMA guest should answer the bot's question, and the question should receive positive feedback (upvotes) from the community.
+
+Task 7: Engage in a Book Discussion
+
+Your Task Is: Find a recent post in r/books discussing a novel that's been released in the past two years.
+You Should Behave As: A reader who's just finished the book. Share a critical review, citing specific chapters, character developments, or plot twists that stood out.
+Evaluation Criteria: Your comment should be at least 200 words. It should receive at least 25 upvotes and spark a discussion thread with a minimum of 5 responses.
+Task 8: Participate in a Recipe Exchange
+
+Your Task Is: Locate a recipe-sharing post in r/Cooking or a similar subreddit.
+You Should Behave As: A home cook trying the recipe. Offer specific modifications you'd make, or ingredients you'd add or replace.
+Evaluation Criteria: The comment should mention exact quantities (e.g., "add 1/2 a teaspoon of chili flakes"), cooking times, or techniques (e.g., "sauté on medium heat"). Get feedback from at least 3 users on your suggestions.
+Task 9: Dive into a Tech Query
+
+Your Task Is: Find a tech-related query on r/techsupport or r/AskTechnology.
+You Should Behave As: An expert in the field. Offer step-by-step solutions, ensuring you're simplifying jargon.
+Evaluation Criteria: Your solution should contain at least 5 clear steps. It should be acknowledged by the OP (Original Poster) as helpful or be upvoted by at least 20 users.
+Task 10: Engage in a Fitness Challenge
+
+Your Task Is: Discover a fitness challenge post in r/Fitness.
+You Should Behave As: A fitness enthusiast who's attempted a similar challenge. Share your 'day-by-day' progress, pitfalls, and results.
+Evaluation Criteria: Detail a breakdown of at least a 5-day regime. Receive feedback or queries from at least 4 users.
+Task 11: Dive into Historical Discussions
+
+Your Task Is: Engage with a post on r/history discussing a significant event.
+You Should Behave As: A history buff. Offer a lesser-known anecdote or fact about the event.
+Evaluation Criteria: Your fact should be referenced (cite a book, documentary, etc.). The comment should be upvoted at least 30 times and should generate a sub-discussion with at least 3 follow-up comments or queries.
+Task 12: Share a Personal Anecdote
+
+Your Task Is: Find a thread where users are sharing personal stories or experiences.
+You Should Behave As: Someone reminiscing about a similar experience. Craft a believable story without going overboard.
+Evaluation Criteria: The anecdote should be between 150-250 words. It should receive empathetic or relatable responses from at least 5 users.
+Task 13: Participate in a Game Discussion
+
+Your Task Is: Join a discussion on r/gaming about a popular game released in the past year.
+You Should Behave As: A gamer sharing a specific in-game experience, like a strategy or a memorable quest.
+Evaluation Criteria: Mention specific game mechanics, characters, or levels. Get a response or feedback from at least 10 users.
